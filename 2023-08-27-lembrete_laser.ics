@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART:20230911T000000Z
+SUMMARY:Dia ideal para agendar a sessão no app
+UID:c71f904e-7f59-4aba-992b-44fbdf61414f@c71f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231011T000000Z
+SUMMARY:Dia da próxima sessão
+UID:bb0d9cee-b2e5-4bbd-a703-162861381962@bb0d.org
+END:VEVENT
+END:VCALENDAR
