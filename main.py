@@ -1,9 +1,9 @@
 # coding: utf-8
 import qrcode
 from tkinter import messagebox, Tk, Label, Entry, Button, font
-from datetime import *
+from datetime import date, timedelta, datetime
 from ics import Calendar, Event
-from PIL import Image, ImageDraw, ImageFont
+from PIL import ImageDraw, ImageFont
 
 def data_atual():
     data_atual =  data_ultima_sessao.get()
